@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    background-image: url("somestuff.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bluey {
+    background: lightseagreen;
+    color: white;
+    margin-top: -20px;
+}
